@@ -1,5 +1,4 @@
 ### Olá, me chamo Maria Eduarda 
-### Seja bem-vindo! :)
 
 
 - 💻 Estudo Informática para Internet
